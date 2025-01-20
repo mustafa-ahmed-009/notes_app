@@ -17,8 +17,8 @@ A simple yet powerful note-taking application that allows users to create, manag
 ## 🛠️ Technologies Used
 
 - **Frontend**: Flutter
-- **State Management**: Provider or Riverpod
-- **Database**: Local storage (e.g., SQLite, Hive, or SharedPreferences)
+- **State Management**: Bloc
+- **Database**: Local storage (Hive)
 - **Styling**: Material Design with custom themes
 
 ---
@@ -27,9 +27,10 @@ A simple yet powerful note-taking application that allows users to create, manag
 
 | Home Screen | Create Note | Edit Note |
 |-------------|-------------|-----------|
-| ![Home Screen](https://via.placeholder.com/300) | ![Create Note](https://via.placeholder.com/300) | ![Edit Note](https://via.placeholder.com/300) |
+| ![Home Screen](https://github.com/mustafa-ahmed-009/notes_app/blob/main/images/main_view.png) | ![Create Note](https://github.com/mustafa-ahmed-009/notes_app/blob/main/images/adding%20a%20note.png) | ![Edit Note](https://github.com/mustafa-ahmed-009/notes_app/blob/main/images/edit_view.png) |
 
 ---
+![Changing note Background Color](https://github.com/mustafa-ahmed-009/notes_app/blob/main/images/the%20ability%20to%20change%20to%20change%20the%20color.png)
 
 ## 🚀 Getting Started
 
